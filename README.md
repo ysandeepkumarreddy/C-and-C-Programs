@@ -31,9 +31,9 @@ These drawbacks became the driving force for Ritchie for development of a new pr
 
 ## Follow these steps to run programs on terminal:
 
-### Step 1. Open terminal.
+**Step 1.** Open terminal.
 
-Step 2. Type command to install gcc or g++ complier:
+**Step 2.** Type command to install gcc or g++ complier:
 
 $ sudo apt-get install build-essential
 
@@ -43,17 +43,17 @@ To check gcc version type this command:
 
 $ gcc –version or gcc –v
 
-Step 3. Open a file using any editor.
+**Step 3.** Open a file using any editor.
 
 $ sudo gedit first.c (for C programs)
 
 $ sudo gedit hello.cpp (for C++ prgrams)
 
-Step 4. Write the Code on Text Editor
+**Step 4.** Write the Code on Text Editor
 
-Step 5. Save the file and exit.
+**Step 5.** Save the file and exit.
 
-Step 6.  Compile the program using any of the following command:
+**Step 6. ** Compile the program using any of the following command:
 
 (i). Compiling C program.
 
@@ -75,7 +75,7 @@ $ sudo g++ -o hello hello.cpp
 
 [Note: Make sure you are in the same directory where you have created your program before compiling it.]
 
-Step 8. To run this program type this command:
+**Step 7.** To run this program type this command:
 
 (i). For running C program
 
@@ -95,7 +95,7 @@ $ ./hello (If you compiled using second command)
 
 It will show output on the terminal.
 
-Try this. All the best!!!
+### Try this. All the best!!!
 
 ### Support or Contact
 
