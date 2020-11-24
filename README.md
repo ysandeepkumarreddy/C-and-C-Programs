@@ -53,7 +53,7 @@ $ sudo gedit hello.cpp (for C++ prgrams)
 
 **Step 5.** Save the file and exit.
 
-**Step 6. ** Compile the program using any of the following command:
+**Step 6.** Compile the program using any of the following command:
 
 (i). Compiling C program.
 
