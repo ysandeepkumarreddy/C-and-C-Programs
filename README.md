@@ -1,12 +1,16 @@
-# C-and-C++Programs
+## C-and-C++Programs
 
-This Reposistory is created for practice purpose who are new to c & C++
+This Reposistory is created for practice purpose who are new to **C & C++**
 
 # What is C?
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions
 
+
+# What is C++?
+C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+
 # Benefits of C language over other programming languages
-C is a middle-level programming language developed by Dennis Ritchie during the early 1970s while working at AT&T Bell Labs in the USA. The objective of its development was in the context of the re-design of the UNIX operating system to enable it to be used on multiple computers.
+C is a middle-level programming language developed by Dennis Ritchie during the early 1970s while working at **AT&T Bell Labs in the USA.** The objective of its development was in the context of the re-design of the UNIX operating system to enable it to be used on multiple computers.
 
 Earlier the language B was now used for improving the UNIX system. Being a high-level language, B allowed much faster production of code than in assembly language. Still, B suffered from drawbacks as it did not understand data-types and did not provide the use of “structures”.
 
@@ -23,4 +27,13 @@ These drawbacks became the driving force for Ritchie for development of a new pr
 8. C implements algorithms and data structures swiftly, facilitating faster computations in programs. This has enabled the use of C in applications requiring higher degrees of calculations like MATLAB and Mathematica.
 9. Riding on these advantages, C became dominant and spread quickly beyond Bell Labs replacing many well-known languages of that time, such as ALGOL, B, PL/I, FORTRAN, etc. C language has become available on a very wide range of platforms, from embedded microcontrollers to supercomputers.
 
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[Telegram](https://t.me/ysandeepkumarreddy)
+
+[Instgram](https://www.instagram.com/ysandeepkumarreddy/)
+
+[Twitter](https://twitter.com/iamysandeep)
 
