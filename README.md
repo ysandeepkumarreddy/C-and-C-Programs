@@ -1,22 +1,22 @@
-## C-and-C++Programs
+# C-and-C++Programs
 
 This Reposistory is created for practice purpose who are new to **C & C++**
 
-# What is C?
+## What is C?
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions
 
 
-# What is C++?
+## What is C++?
 C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
 
-# Benefits of C language over other programming languages
+## Benefits of C language over other programming languages
 C is a middle-level programming language developed by Dennis Ritchie during the early 1970s while working at **AT&T Bell Labs in the USA.** The objective of its development was in the context of the re-design of the UNIX operating system to enable it to be used on multiple computers.
 
 Earlier the language B was now used for improving the UNIX system. Being a high-level language, B allowed much faster production of code than in assembly language. Still, B suffered from drawbacks as it did not understand data-types and did not provide the use of “structures”.
 
 These drawbacks became the driving force for Ritchie for development of a new programming language called C. He kept most of language B’s syntax and added data-types and many other required changes. Eventually, C was developed during 1971-73, containing both high-level functionality and the detailed features required to program an operating system. Hence, many of the UNIX components including UNIX kernel itself were eventually rewritten in C.
 
-# Benefits of C language
+## Benefits of C language
 1. As a middle-level language, C combines the features of both high-level and low-level languages. It can be used for low-level programming, such as scripting for drivers and kernels and it also supports functions of high-level programming languages, such as scripting for software applications etc.
 2. C is a structured programming language which allows a complex program to be broken into simpler programs called functions. It also allows free movement of data across these functions.
 3. Various features of C including direct access to machine level hardware APIs, the presence of C compilers, deterministic resource use and dynamic memory allocation make C language an optimum choice for scripting applications and drivers of embedded systems.
