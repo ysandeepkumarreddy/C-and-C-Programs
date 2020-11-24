@@ -96,7 +96,7 @@ $ ./hello (If you compiled using second command)
 It will show output on the terminal.
 
 # Compiling on windows 10?
-## [Turbo C++](https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true) <-- Download
+## [Turbo C++](https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true)  <-- Download
 
 ### Try this. All the best!!!
 
