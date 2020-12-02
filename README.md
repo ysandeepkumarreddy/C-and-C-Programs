@@ -27,6 +27,9 @@ These drawbacks became the driving force for Ritchie for development of a new pr
 8. C implements algorithms and data structures swiftly, facilitating faster computations in programs. This has enabled the use of C in applications requiring higher degrees of calculations like MATLAB and Mathematica.
 9. Riding on these advantages, C became dominant and spread quickly beyond Bell Labs replacing many well-known languages of that time, such as ALGOL, B, PL/I, FORTRAN, etc. C language has become available on a very wide range of platforms, from embedded microcontrollers to supercomputers.
 
+# Compiling on windows 10?
+## [Turbo C++](https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true)  <-- Download
+
 # Run a C/C++ program on terminal using gcc compiler
 
 ## Follow these steps to run programs on terminal:
@@ -95,8 +98,6 @@ $ ./hello (If you compiled using second command)
 
 It will show output on the terminal.
 
-# Compiling on windows 10?
-## [Turbo C++](https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true)  <-- Download
 
 ### Try this. All the best!!!
 
