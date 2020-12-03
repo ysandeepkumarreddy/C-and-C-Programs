@@ -10,7 +10,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
 
 ## Benefits of C language over other programming languages
-C is a middle-level programming language developed by Dennis Ritchie during the early 1970s while working at **AT&T Bell Labs in the USA.** The objective of its development was in the context of the re-design of the UNIX operating system to enable it to be used on multiple computers.
+C is a middle-level programming language developed by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) during the early 1970s while working at [AT&T Bell Labs in the USA.](https://www.research.att.com/) The objective of its development was in the context of the re-design of the UNIX operating system to enable it to be used on multiple computers.
 
 Earlier the language B was now used for improving the UNIX system. Being a high-level language, B allowed much faster production of code than in assembly language. Still, B suffered from drawbacks as it did not understand data-types and did not provide the use of “structures”.
 
