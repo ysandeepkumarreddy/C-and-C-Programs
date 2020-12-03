@@ -15,4 +15,4 @@ int main() {
     printf("Quotient = %d\n", quotient);
     printf("Remainder = %d", remainder);
     return 0;
-} 
+}
