@@ -104,3 +104,4 @@ It will show output on the terminal.
 
 ### Try this. All the best!!!
 
+![](https://img.shields.io/github/last-commit/ysandeepkumarreddy/C-and-C-Programs?color=blue)
