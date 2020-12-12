@@ -28,7 +28,7 @@ These drawbacks became the driving force for Ritchie for development of a new pr
 9. Riding on these advantages, C became dominant and spread quickly beyond Bell Labs replacing many well-known languages of that time, such as ALGOL, B, PL/I, FORTRAN, etc. C language has become available on a very wide range of platforms, from embedded microcontrollers to supercomputers.
 
 # Compiling on windows 10?
-<code><a href="https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true" target="_blank"><img height="30" src="https://img.shields.io/badge/Download-Click%20Here!-blue?style=flat-square&logo=downarrow&logoColor=white"/></a></code> 
+<code><a href="https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true" target="_blank"><img height="25" src="https://img.shields.io/badge/Download-Here-blue"/></a></code> 
 
 # Run a C/C++ program on terminal using gcc compiler
 
