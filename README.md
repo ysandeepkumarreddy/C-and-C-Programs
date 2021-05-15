@@ -1,6 +1,6 @@
 # C-and-C++Programs
 
-This Reposistory is created for practice purpose who are new to **C & C++**
+This Repository is created for practice purpose who are new to **C & C++**
 
 ## What is C?
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions
